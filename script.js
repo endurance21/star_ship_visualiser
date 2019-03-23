@@ -70,7 +70,6 @@ Circle.prototype.draw = function (){
      if(this.y >= innerHeight)
      this.y = 0.1 ;
      this.y+=this.Velocity.y;
-     console.log("working");
      this.draw2();
      
  }
