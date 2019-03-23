@@ -1,5 +1,5 @@
 var audioloader =  new AudioLoader();
-const audio = audioloader.load('AudioLoader/songs/song5.mp3');
+const audio = audioloader.load('song5.mp3');
 //const button = new createDOMElement("button", "button", "click to play ");   
 audio.play();
 // document.body.
